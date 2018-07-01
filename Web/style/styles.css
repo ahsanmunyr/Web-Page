@@ -1,0 +1,59 @@
+.first-div{
+  text-align: center;
+}
+.mainDiv{
+  width:1250px;
+  margin:0 auto;
+}
+#gap{
+  margin-left: 20%;
+}
+#gapl{
+  margin-left:  8%;
+
+}
+.cover{
+  height: 100%;
+  width: 100%;
+  max-height: 150%;
+  max-width: 150%;
+  border-style: solid;
+}
+.avalable{
+  display: flex;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+.innerdiv{
+  height: 25%;
+  width: 25%;
+  max-height: 25%;
+  max-width: 25%;
+  min-width: 25%;
+  min-height: 25%;
+  border-style: outset;
+   width: 50%;
+}
+#card{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.footer {
+  background: #061D25;
+  padding: 10px 0;
+}
+.footer a {
+  color: #70726F;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #70726F;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #70726F;
+}
+.footer a:hover {
+  color: white;
+}
